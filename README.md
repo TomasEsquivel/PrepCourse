@@ -1,2 +1,2 @@
-# PrepCourse
-Este es un repositorio de prueba 
+
+Este proyecto es una prueba para crear un repositorio
